@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pointless Expectations</title>
-    <link>https://babak4.githib.io/</link>
+    <link>https://babak4.github.io/</link>
     <description>Recent content on Pointless Expectations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 May 2015 16:12:15 +0100</lastBuildDate>
     
-	<atom:link href="https://babak4.githib.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://babak4.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Author</title>
-      <link>https://babak4.githib.io/about-author/</link>
+      <link>https://babak4.github.io/about-author/</link>
       <pubDate>Sat, 27 Jun 2020 16:02:45 +0100</pubDate>
       
-      <guid>https://babak4.githib.io/about-author/</guid>
+      <guid>https://babak4.github.io/about-author/</guid>
       <description>Babak Tourani
 Currently:
  Data Engineer at Vonage (previously known as Nexmo) Databases: Oracle, Redshift, Snowflake Workflow Orchestrators: Airflow, Oozie Languages: [PL/]SQL, Python, Java  Formerly:
@@ -25,10 +25,10 @@ Currently:
     
     <item>
       <title>Disclaimer</title>
-      <link>https://babak4.githib.io/disclaimer/</link>
+      <link>https://babak4.github.io/disclaimer/</link>
       <pubDate>Sat, 27 Jun 2020 15:56:50 +0100</pubDate>
       
-      <guid>https://babak4.githib.io/disclaimer/</guid>
+      <guid>https://babak4.github.io/disclaimer/</guid>
       <description>Dear Reader!
 I hereby declare that the material published in this blog have no other purpose, but to remind me about those aspects of the technologies that I use on a daily basis - to earn money, primarily - but I tend to forget quickly.
 Also I hope that the posts could help finding [possible] solutions easier on the web, by simply spreading the word, and increasing the exposure of posts&amp;rsquo; subjects to search engines such as Google.</description>
@@ -36,10 +36,10 @@ Also I hope that the posts could help finding [possible] solutions easier on the
     
     <item>
       <title>Nobody Reads Your Blog!</title>
-      <link>https://babak4.githib.io/posts/nobody-reads-your-blog/</link>
+      <link>https://babak4.github.io/posts/nobody-reads-your-blog/</link>
       <pubDate>Sun, 17 May 2015 16:12:15 +0100</pubDate>
       
-      <guid>https://babak4.githib.io/posts/nobody-reads-your-blog/</guid>
+      <guid>https://babak4.github.io/posts/nobody-reads-your-blog/</guid>
       <description>Yes, nobody!
 I mean: REALLY read it; going through all the words and sentences and paragraphs and get through to the end.
 During the time that I was working for BBC World Service (2002-2012) one of the more important guidelines for online content producers was: &amp;ldquo;All you have to play with is the first page, and in fact, first paragraph of your piece. You have to grab your audience&amp;rsquo;s attention there, and say whatever you want to say in the top part of the page, before the user needs to scroll down, because they rarely do!</description>
