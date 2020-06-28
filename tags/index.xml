@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Pointless Expectations</title>
-    <link>https://localhost:1313/tags/</link>
+    <link>https://babak4.github.io/tags/</link>
     <description>Recent content in Tags on Pointless Expectations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>babak4@gmail.com (Babak Tourani)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://babak4.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
